@@ -14,7 +14,7 @@ app.use('/teacher', teacherRoute)
 app.use('/course', courseRoute)
 app.use('/search', searchRoute)
 
-db.sequelize.sync({alter:true}).then(()=>{
+db.sequelize.sync({force:true}).then(()=>{
     app.listen(8080, ()=>{
         console.log("App is running on port 8080")
     })
