@@ -5,7 +5,12 @@
     "database": "dac9bcl3p20b50",
     "host": "ec2-34-232-212-164.compute-1.amazonaws.com",
     "dialect": "postgres",
-    "port": "5432"
+    "port": "5432",
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
   }
 }
-
