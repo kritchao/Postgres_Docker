@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "user",
-    "password": "pass",
-    "database": "db",
-    "host": "postgres",
+    "username": "wiquzehvjeaojp",
+    "password": "88b9eac82b46d392df90b37964968f8c7dd9768d63a1814bcff8c561b9c7fc06",
+    "database": "dac9bcl3p20b50",
+    "host": "ec2-34-232-212-164.compute-1.amazonaws.com",
     "dialect": "postgres",
     "port": "5432"
   }
