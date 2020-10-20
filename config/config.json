@@ -1,11 +1,11 @@
 {
   "development": {
     "username": "user",
-    "password": "pass",
-    "database": "db",
+    "password": "password",
+    "database": "todolist_database",
     "host": "localhost",
-    "dialect": "postgres",
-    "port": "35432"
+    "dialect": "mysql",
+    "port": "3307"
   }
 }
 
