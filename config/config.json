@@ -3,9 +3,9 @@
     "username": "user",
     "password": "pass",
     "database": "db",
-    "host": "postgres",
+    "host": "localhost",
     "dialect": "postgres",
-    "port": "5432"
+    "port": "35432"
   }
 }
 
