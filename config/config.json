@@ -1,11 +1,11 @@
 {
   "development": {
-    "username": "user",
-    "password": "password",
-    "database": "todolist_database",
-    "host": "localhost",
-    "dialect": "mysql",
-    "port": "3307"
+    "username": "bftqpexehishrx",
+    "password": "cfbffa861b6c78b86b4e14817bb1252a00a5cf2988e189b8af1ea4f982bbc460",
+    "database": "d1iu079v41ssk9",
+    "host": "ec2-34-237-236-32.compute-1.amazonaws.com",
+    "dialect": "postgres",
+    "port": "5432"
   }
 }
 
