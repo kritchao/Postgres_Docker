@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "wiquzehvjeaojp",
-    "password": "88b9eac82b46d392df90b37964968f8c7dd9768d63a1814bcff8c561b9c7fc06",
-    "database": "dac9bcl3p20b50",
-    "host": "ec2-34-232-212-164.compute-1.amazonaws.com",
+    "username": "bftqpexehishrx",
+    "password": "cfbffa861b6c78b86b4e14817bb1252a00a5cf2988e189b8af1ea4f982bbc460",
+    "database": "d1iu079v41ssk9",
+    "host": "ec2-34-237-236-32.compute-1.amazonaws.com",
     "dialect": "postgres",
     "port": "5432",
     "dialectOptions": {
